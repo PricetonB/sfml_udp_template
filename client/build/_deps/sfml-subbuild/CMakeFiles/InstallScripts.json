@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/pricetonb/code/sfml_udp_server_client/client/build/_deps/sfml-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
